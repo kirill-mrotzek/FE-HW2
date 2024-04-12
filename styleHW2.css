@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+    font-size: 25px;
+}
+
+.block1{
+    background-color: orangered;
+    border: 5px solid red;
+}
+
+.block1 img{
+    width: 200px;
+}
+
+.block1 h2{
+    text-align: center;
+    font-size: 15px;
+}
+
+.block2{
+    background-color: rgb(119, 145, 222);
+    border: 5px solid blue;
+}
+
+.block2 img{
+    width: 200px;
+}
+
+.block2 h3{
+    text-align: center;
+    font-size: 15px;
+}
+
+.block3{
+    background-color: whitesmoke;
+    border: 5px solid yellow;
+}
+.block3 img{
+    width: 200px; 
+}
+
+.block3 h4{
+    text-align: center;
+    font-size: 15px;
+}
+
+.facebook_logo{
+    width: 30px;
+    height: 20px;
+}
+.instagram_logo{
+    width: 20px;
+    height: 20px;
+}
+
+.linkedin_logo{
+    width: 20px;
+    height: 20px;
+}
