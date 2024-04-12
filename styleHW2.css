@@ -6,6 +6,7 @@ h1{
 .block1{
     background-color: orangered;
     border: 5px solid red;
+    margin: 10px;
 }
 
 .block1 img{
@@ -20,6 +21,7 @@ h1{
 .block2{
     background-color: rgb(119, 145, 222);
     border: 5px solid blue;
+    margin: 10px;
 }
 
 .block2 img{
@@ -34,6 +36,7 @@ h1{
 .block3{
     background-color: whitesmoke;
     border: 5px solid yellow;
+    margin: 10px;
 }
 .block3 img{
     width: 200px; 
@@ -56,4 +59,8 @@ h1{
 .linkedin_logo{
     width: 20px;
     height: 20px;
+}
+
+.block4{
+    text-align: center;
 }
